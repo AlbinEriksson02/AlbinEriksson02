@@ -1,9 +1,10 @@
 # Albin Eriksson
 ### [My Portfolio](https://albineriksson02.github.io/portfolio/ "Portfolio")
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinEriksson02&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![AlbinEriksson02's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinEriksson02&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages And Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinEriksson02&layout=compact&theme=dark)](https://github.com/AlbinEriksson02/github-readme-stats)
+
 
 -  HTML
 -  CSS
@@ -23,11 +24,6 @@
 
 -  I want to learn how to make IOS applications
 -  I would like to get better at frontend development
-
-## About
-
-- Swedish
-- 19 Years Old
 
 ## Education
 
