@@ -27,7 +27,7 @@
 
 - Swedish
 - 19 Years Old
-- 
+
 ## Education
 
 ### High School
