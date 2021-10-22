@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinEriksson02&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages And ToolsCancel changes
+## Languages And Tools
 
 -  HTML
 -  CSS
