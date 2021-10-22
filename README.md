@@ -2,21 +2,32 @@
 ### [My Portfolio](https://albineriksson02.github.io/portfolio//"Portfolio")
 
 
-## Coding
+## Languages And Tools
 
--  Web Development
+-  HTML
+-  CSS
+-  JavaScript
 -  Angular
 -  Node.js
 -  Python3
+-  Git
 
 ## IDE
 
 -  I currently use VS CODE
--  
+-  I mainly use Windows
+-  I have experience with Raspberry PI
+
+## Plans
+
+-  I want to learn how to make IOS applications
+-  I would like to get better at frontend development
+
 ## About
 
 - Swedish
 - 19 Years Old
+- 
 ## Education
 
 ### High School
