@@ -1,6 +1,7 @@
 # Albin Eriksson
 ### [My Portfolio](https://albineriksson02.github.io/portfolio/ "Portfolio")
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinEriksson02)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages And ToolsCancel changes
 
