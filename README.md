@@ -13,6 +13,9 @@
 -  Node.js
 -  Python3
 -  Git
+-  API's
+-  SQL
+-  Scrum
 
 ## IDE
 
