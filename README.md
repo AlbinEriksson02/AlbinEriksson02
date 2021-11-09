@@ -28,7 +28,7 @@
 -  I want to learn how to make IOS applications
 -  I would like to get better at frontend development
 
-## Education
+## Education 
 
 ### High School
 - NTI Gymnasiet Uppsala 2018-2021
